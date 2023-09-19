@@ -1,0 +1,89 @@
+.flex {
+  display: flex;
+  margin-top: 25px;
+  /* border: 1px solid red; */
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
+}
+
+.ull {
+  width: 70%;
+}
+.flex-div {
+  display: flex;
+}
+
+.flex-div2 {
+  /* border: 1px solid red; */
+  width: 50%;
+}
+.btn {
+  /* padding: 0.5rem; */
+  background: orangered;
+  color: black;
+  border-radius: 0.4rem;
+  border: nonw;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  height: 2rem;
+}
+.par {
+  color: red;
+}
+.par1 {
+  color: green;
+}
+
+.addform {
+  /* border: 1px solid red; */
+  width: 70%;
+  margin-left: 3rem;
+  margin-top: 2rem;
+  padding: 2rem;
+  background: rgba(255, 68, 0, 0.119);
+  font-family: "Courier New", Courier, monospace;
+}
+.labelx {
+  margin-right: 1rem;
+}
+
+.inputx {
+  padding: 0.3rem;
+}
+.shift {
+  /* border: 1px solid red; */
+  width: 33%;
+  display: flex;
+  justify-content: end;
+}
+
+.form2 {
+  /* border: 1px solid red; */
+  width: 80%;
+  /* border: 1px solid red; */
+  background: rgba(255, 68, 0, 0.119);
+  padding: 2rem;
+  font-family: "Courier New", Courier, monospace;
+}
+.div-flex3 {
+  /* border: 1px solid red; */
+  width: 50%;
+}
+.selecty {
+  /* border: 1px solid red; */
+  width: 6rem;
+  border-color: none;
+  padding: 0.3rem;
+  border: none;
+}
+
+.selecty {
+  padding: 1rem;
+}
+
+.selectedx {
+  background-color: rgba(255, 68, 0, 0.119);
+}
